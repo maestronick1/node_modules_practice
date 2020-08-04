@@ -44,4 +44,5 @@ From the assignment directory touch a .gitignore file. When you open the .gitign
 ## Github Repo
 (https://github.com/maestronick1/node_modules_practice)
 
+## MUSIC COMPOSED BY NICHOLAS PHILLIPS
 
